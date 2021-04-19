@@ -1,6 +1,6 @@
-# Pytorchvideoのチュートリアル
+# Pytorchvideoのチュートリアルやってみた
 
-# requirements
+## requirements
 - torch
 - torchvision
 - pytorchvideo
